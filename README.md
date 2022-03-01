@@ -6,3 +6,6 @@ Hier **(testdoku)** kommen alle Tex minimalbeispiele rein, die ich evtl. mal bra
 ## Meine To-Dos:
 - [x] README.md befüllen
 - [ ] erstes Minimalbeispiel hochladen
+
+## Lose Gedanken
+Evtl. sollte ich hier auch ein Mischprojekt aus LaTex Minimalbeispielen und dem Buch _GitHub - Eine praktische Einführung_ unterbringen.
