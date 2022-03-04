@@ -12,3 +12,5 @@ There is nothing to install
 
 ## Lose Gedanken
 Evtl. sollte ich hier auch ein Mischprojekt aus LaTex Minimalbeispielen und dem Buch _GitHub - Eine praktische Einführung_ unterbringen, aber evtl. auch nicht
+
+[An Internal Link](/docs/CODE_OF_CONDUCT)
